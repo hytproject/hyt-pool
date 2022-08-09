@@ -5,7 +5,7 @@
     "author": "@scalahq",
     "repository": {
         "type": "git",
-        "url": "https://github.com/scalaproject/scala-pool.git"
+        "url": "https://github.com/hytproject/scala-pool.git"
     },
     "dependencies": {
         "args-parser": "*",
@@ -13,8 +13,8 @@
         "base58-native": "*",
         "bignum": "*",
         "cli-color": "*",
-        "cryptoforknote-util": "git+https://github.com/scala-network/node-cryptoforknote-util#ced6084d73553751851d8a89b8eee9e45f1fbfb7",
-        "cryptonight-hashing": "git+https://github.com/scala-network/scala-hashing.git",
+        "cryptoforknote-util": "git+https://github.com/hytproject/node-cryptoforknote-util#ced6084d73553751851d8a89b8eee9e45f1fbfb7",
+        "cryptonight-hashing": "git+https://github.com/hytproject/scala-hashing.git",
         "dateformat": "*",
         "fastify": "^3.11.0",
         "fastify-compress": "^3.4.1",

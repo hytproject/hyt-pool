@@ -1,5 +1,5 @@
 [Unit]
-Description=Scala Daemon
+Description=Holoyolo Daemon
 After=network.target
 
 [Service]

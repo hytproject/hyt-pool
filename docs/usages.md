@@ -59,7 +59,7 @@ To login with this user :
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-	git clone https://github.com/scala-network/scala-pool.git pool
+	git clone https://github.com/hytproject/scala-pool.git pool
 	cd pool
 	npm install
 ```

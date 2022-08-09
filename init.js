@@ -1,5 +1,5 @@
 /* 
- * Scala Project Nodejs Pool
+ * Holoyolo Project Nodejs Pool
  * Copyright StelliteCoin	<https://github.com/stellitecoin/cryptonote-stellite-pool>
  * Copyright Ahmyi			<https://github.com/ahmyi/cryptonote-stellite-pool>
  * Copyright Dvandal    	<https://github.com/dvandal/cryptonote-nodejs-pool>
@@ -77,7 +77,7 @@ if (cluster.isWorker){
 require('./lib/exceptionWriter.js')(logSystem);
 
 // Pool informations
-log('info', logSystem, 'Starting Scala Node.JS pool version %s', [global.config.version]);
+log('info', logSystem, 'Starting Holoyolo Node.JS pool version %s', [global.config.version]);
 
 
 const createWorker = function(workerType, forkId){
