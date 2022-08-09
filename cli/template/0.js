@@ -19,7 +19,7 @@ const question = "\
 ##                                                ##\n\
 ####################################################\n\
 \n\
-Welcome to Scala-Pool Command Line Interface (CLI)\n\
+Welcome to Holoyolo-pool Command Line Interface (CLI)\n\
 Please choose an option below\n\
 	1) Coin Config(s)\n\
 	2) Redirect\n\

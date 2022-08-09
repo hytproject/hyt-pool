@@ -1,11 +1,11 @@
 {
-    "name": "scala-pool",
+    "name": "Holoyolo-pool",
     "version": "1.5.0",
     "license": "GPL-2.0",
     "author": "@scalahq",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hytproject/scala-pool.git"
+        "url": "https://github.com/hytproject/Holoyolo-pool.git"
     },
     "dependencies": {
         "args-parser": "*",

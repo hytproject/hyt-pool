@@ -1,7 +1,7 @@
-[![Master Build Status](https://travis-ci.com/hytproject/scala-pool.svg?branch=master)](https://travis-ci.com/hytproject/scala-pool?branch=master)
+[![Master Build Status](https://travis-ci.com/hytproject/Holoyolo-pool.svg?branch=master)](https://travis-ci.com/hytproject/Holoyolo-pool?branch=master)
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/standard/semistandard)
 
-scala-pool
+Holoyolo-pool
 ======================
 
 High performance Node.js (with native C addons) mining pool for HYT PAYS coin. Comes with lightweight example front-end script which uses the pool's AJAX API. Support for Cryptonight Holoyolo v9 algorithm, panthera.

@@ -59,7 +59,7 @@ To login with this user :
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-	git clone https://github.com/hytproject/scala-pool.git pool
+	git clone https://github.com/hytproject/Holoyolo-pool.git pool
 	cd pool
 	npm install
 ```
@@ -108,12 +108,12 @@ or running multiple certain module
 
 
 To keep your pool up, on operating system with systemd, you can create add your pool software as a service.  
-Use default/service to create the systemd service `/lib/systemd/system/scala-pool.service`
+Use default/service to create the systemd service `/lib/systemd/system/Holoyolo-pool.service`
 Then enable and start the service with the following commands : 
 
 ```
-sudo systemctl enable scala-pool.service
-sudo systemctl start scala-pool.service
+sudo systemctl enable Holoyolo-pool.service
+sudo systemctl start Holoyolo-pool.service
 ```
 
 #### 4) Host the front-end
